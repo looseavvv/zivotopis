@@ -1,0 +1,39 @@
+Lucie Svárovská 
+Vítejte na mé životopisné stránce
+
+Vzdělání 
+Za sebou mám výučák z Vizuální propagace.
+Před sebou, po roce s nemocí doma, maturitu.
+A momentálně ještě dělám kurz ,,Staň se kóderkou" s Czechitas.
+
+Pracovní zkušenosti
+Brigádičky za barem nebo v HMku nebudu zmiňovat.
+Co ale stojí za to: - Video editorka pro Seduo.cz ( od června 2021 až součastnost)
+                    - Invoice control clerk v Accenture ( srpen 2022 až říjen 2022)
+
+Mluvím: Česky ( rodilá mluvčí)
+        Anglicky (B2)
+        Rusky (A2)
+        Ukrajinsky (A2)
+
+Hobby: Tabinka a Arnold
+dále pak video hry, deskovky a miluji přírodu. 
+
+
+
+ nav {
+    background-color: rgba(93, 46, 223, 0.418); /* barva pozadí */
+    height: 50px; /* výška pruhu */
+  }
+  
+  nav a {
+    color: blue; /* barva textu odkazů */
+    text-decoration: none; /* odstranění podtržení */
+    padding: 10px; /* odsazení textu od okrajů odkazu */
+    display: inline-block; /* umístění odkazů vedle sebe */
+  }
+  
+  nav a:hover {
+    background-color:pink; /* změna pozadí na hover */
+    color: #333; /* změna barvy textu na hover */
+  }

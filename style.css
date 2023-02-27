@@ -1,0 +1,145 @@
+body{color: blue;
+background-color: pink;
+line-height: 1.5;
+font-weight: normal;
+font-size: 20px;
+font-family: 'Gloock', serif;
+text-align: center;
+margin: 20px 20px ;
+  }
+section{
+    text-align:left;
+}
+h1{font-size: 70px;
+text-align: center;
+float: center;
+text-align: center;
+width: 100%;}
+h2{
+    float: center;
+    text-align: center;
+    width: 100%;
+}
+h3{text-align: center;}
+
+.ja{
+    width: 200px;
+border-radius: 50%;
+border: 2px solid blue;}
+
+.vzdelani{
+    float: center;
+    text-align: center;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    width: 100%;
+}
+.zkusenosti{
+    text-align: center;
+    width: 100%;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+}
+
+.mluvim{
+    float: none;
+    text-align: center;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    width: 100%;
+}
+
+.hobby{
+    float: center;
+    text-align: center;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    width: 100%;
+}
+.kontakt{
+    float: center;
+    text-align: center;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    width: 100%;
+}
+
+header{
+    background-image: url(zivotopis/pozadi.jpg);
+    float: center;
+    text-align: center;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    width: 100%;
+}
+
+footer{
+    float: center;
+    text-align: center;
+    border: 15px;
+    padding: 20px;
+    margin: 20px;
+    width: 100%;
+}
+.menu {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .menu li {
+    margin: 0 20px;
+  }
+  
+  .menu a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    text-transform: uppercase;
+
+  }
+  
+  .menu a:hover {
+    color:blueviolet;
+  }
+
+ 
+
+  nav {
+    background-color: whitesmoke; 
+    height: 50px; 
+    width: 100%; 
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+  }
+  
+  nav a {
+    color: white; 
+    text-decoration: none; 
+    padding: 10px; 
+    display: inline-block; 
+  }
+  
+  nav a:hover {
+    background-color: pink; 
+    color: blue; 
+  }
+  
+  .a,.b{
+   list-style-position: inside; 
+  }
+  
